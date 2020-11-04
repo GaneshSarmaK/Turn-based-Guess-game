@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Validation
+comment0.text=\n\ Validation\ class\:\n\ This\ class\ is\ used\ to\ validate\ the\ data\ whether\ it\ is\ a\ correct\ input\ or\ not\ \n\ checks\ whether\ the\ string\ is\ within\ the\ range\n\ checks\ whether\ it\ is\ a\ number\ or\ not\ and\ also\ checks\ it\ is\ within\ the\ range\n\ \n
+comment1.params=
+comment1.target=Validation()
+comment1.text=\n\ A\ default\ constructor\ for\ the\ Validation\ class.\n
+comment2.params=integer
+comment2.target=int\ integer(java.lang.String)
+comment2.text=\n\ This\ method\ is\ used\ to\ know\ whether\ the\ inputn\ parameter\ is\ integer\ or\ not\ \n\ \n\ @param\ integer\ is\ a\ String\ type\ which\ is\ passed\ from\ another\ method\ to\ check\ for\ validation\n\ @return\ number\ is\ a\ integer\ which\ sends\ the\ number\ if\ satisfies\ else\ sends\ -1\ \n
+comment3.params=name
+comment3.target=boolean\ checkName(java.lang.String)
+comment3.text=\n\ This\ method\ is\ used\ to\ check\ whether\ name\ of\ the\ ship\ is\ within\ the\ range\ or\ not\n\ \n\ @param\ name\ is\ an\ String\ which\ is\ used\ to\ validate\ with\ few\ conditions\n\ @return\ flag\ is\ a\ boolean\ variable\ used\ to\ know\ whether\ it\ is\ within\ the\ range\ or\ not\n
+comment4.params=data\ range
+comment4.target=boolean\ checkNumber(java.lang.String,\ int)
+comment4.text=\n\ This\ method\ is\ used\ to\ check\ whether\ the\ number\ is\ within\ the\ range\ or\ not\n\ implicity\ this\ method\ calls\ another\ method\ to\ know\ whether\ the\ data\ is\ integer\ or\ not\ \n\ \n\ @param\ data\ is\ an\ String\ which\ is\ used\ to\ validate\ with\ few\ conditions\n\ @param\ range\ is\ an\ integer\ which\ is\ the\ size\ of\ the\ grid\n\ @return\ flag\ is\ a\ boolean\ variable\ used\ to\ know\ whether\ it\ is\ within\ the\ range\ or\ not\n
+numComments=5

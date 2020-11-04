@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Input
+comment0.text=\n\ Input\ class\:\n\ This\ class\ is\ responsible\ for\ taking\ the\ input\n
+comment1.params=
+comment1.target=Input()
+comment1.text=\n\ A\ default\ constructor\ for\ the\ Input\ Class.\n
+comment2.params=message
+comment2.target=java.lang.String\ input(java.lang.String)
+comment2.text=\n\ This\ method\ is\ used\ to\ print\ the\ message\ for\ appropriate\ input\ and\ send\ it\ back\ to\ calling\ method\n
+numComments=3

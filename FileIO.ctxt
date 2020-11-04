@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=FileIO
+comment0.text=\ \n\ \ FileIO\ class\:\n\ \ This\ class\ is\ used\ to\ read\ the\ file\ and\ split\ the\ text\ in\ the\ file\ using\ delimiter\n\ \ also\ responsible\ for\ writing\ the\ data\ into\ the\ file.\ Ex\:\ playerscore,\ computerscore,\ winner\n\ \ \n\ \ @author\ Sarma\ K.\n\ \ @version\ 20th\ Oct\ 2018\n
+comment1.params=fileName
+comment1.target=FileIO(java.lang.String)
+comment1.text=\n\ A\ parameterized\ constructor\ for\ the\ FileIO\ class\n\ @param\ fileName\ a\ String\ that\ has\ the\ name\ of\ the\ file\ to\ be\ read\ or\ written\ to.\n
+comment2.params=
+comment2.target=java.lang.String[]\ read()
+comment2.text=\n\ This\ method\ is\ used\ to\ read\ the\ file\ and\ split\ the\ text\ in\ the\ file\ using\ delimiter\n
+comment3.params=score1\ name1\ score2\ name2
+comment3.target=void\ writeResults(int,\ java.lang.String,\ int,\ java.lang.String)
+comment3.text=\n\ This\ method\ is\ responsible\ for\ writing\ the\ data\ into\ the\ file.\ \n\ Ex\:\ playerscore,\ computerscore,\ winner\n
+numComments=4

@@ -1,0 +1,16 @@
+
+The Computer score is :90
+The Player score is :10
+The winner is Computer
+
+The Player score is :40
+The Computer score is :10
+The winner is Player
+
+The Computer score is :100
+The Player score is :0
+The winner is Computer
+
+The Player score is :30
+The Computer score is :10
+The winner is Player
